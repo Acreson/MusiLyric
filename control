@@ -1,0 +1,11 @@
+Package: com.julioverne.musilyric
+Name: MusiLyric
+Author: julioverne
+Version: 0.5~beta7b
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Best Lyrics Music
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
